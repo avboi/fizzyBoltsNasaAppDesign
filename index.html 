@@ -5,23 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Airflow Intelligence</title>
     <body>
-        <header>
-            <h1>Welcome to Airflow Intelligence</h1>
-            <div>
-                <select id="cities">
-                    <option value="newyork">New York</option>
-                    <option value="losangeles">Los Angeles</option>
-                    <option value="chicago">Chicago</option>
-                </select>
-                .flex-container{
-                    display: flex;
-                    justify-content: space-between;
-                    align-items: right;
-                }
-                
-            </div>
-            
-        </header>
+        <div class="background">
+            <header>
+                <h1>Welcome to Airflow Intelligence</h1>
+                <div>
+                    <select id="cities">
+                        <option value="newyork">New York</option>
+                        <option value="losangeles">Los Angeles</option>
+                        <option value="chicago">Chicago</option>
+                    </select>
+                </div>
+            </header>
+        </div>
     </body>
 </head>
 <body>
