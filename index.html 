@@ -6,6 +6,12 @@
     <title>Airflow Intelligence</title>
     <header>
         <h1>Welcome to Airflow Intelligence</h1>
+        <select id="cities">
+            <option value="newyork">New York</option>
+            <option value="losangeles">Los Angeles</option>
+            <option value="chicago">Chicago</option>
+        </select>
+        
     </header>
 </head>
 <body>
